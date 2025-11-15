@@ -1,6 +1,23 @@
 ## Inspiration
 Alzheimer’s disease affects millions of families worldwide. Early detection, which can improve treatment outcomes and patient quality of life, remains a major challenge due to the complexity and subtlety of the disease’s progression. We were inspired to harness the power of deep learning to analyse medical images and make early, objective risk predictions accessible to every clinician and patient.
 ## What it does
+Our project uses deep learning to analyze brain scan images and predict the risk or stage of Alzheimer’s disease. The AI model automatically processes medical images, learns distinguishing patterns, and produces accurate, actionable diagnoses for clinicians or researchers.
+
+Input: MRI or CT brain scan images
+
+Output: Alzheimer’s risk or stage prediction (e.g., healthy, mild cognitive impairment, Alzheimer’s)
+
+Features:
+
+Fast, automated image analysis
+
+High accuracy and consistency
+
+Potential for early diagnosis and intervention
+
+Interpretable visualizations to support clinical decisions
+
+In essence, our tool empowers healthcare professionals with advanced AI to improve detection and treatment of Alzheimer’s disease.
 
 ## How we built it
 Data Loading and Preprocessing:
